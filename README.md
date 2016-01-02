@@ -1,5 +1,7 @@
 # mean-shift-clustering
-Dependencies: Numpy, OpenCv
+Dependencies: Numpy, OpenCv.
+
+
 A python script to segment images using the mean shift discontinuity preserving filter and clustering.
 
 1) Edit values for the following global variables in the top of the file :-
